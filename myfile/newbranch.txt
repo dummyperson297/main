@@ -2,3 +2,5 @@ after creating newbranh from main branch main >>>> newbranch
 
 
 after creating newbranch from main branch main >>>> secondBranch
+
+after creating thirdBranch from github dashboard main >>> thirdBranch
