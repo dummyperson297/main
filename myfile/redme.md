@@ -7,6 +7,9 @@
 # this is a testing msg to check whether conflict resolving works or not
 # again checking the same just to know push statment behaviour
 
-# testing fivthBranch conflit works
+# testing fivthBranch conflit works and i make conflit from fivth branch
+
+# i make a small mistake
+
 
 
