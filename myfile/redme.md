@@ -2,3 +2,6 @@
 
 # this is sample 1
 # this is sample 2 after all files commited
+
+
+# this is newbranch revert msg 1
